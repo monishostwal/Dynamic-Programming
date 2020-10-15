@@ -1,1 +1,0 @@
-This repo contains all the standard DYNAMIC PROGRAMMING(DP) questions and their solutions in jupyter notebooks .
